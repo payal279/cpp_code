@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Payal/OneDrive/Desktop/C++",
-      "program": "c:/Users/Payal/OneDrive/Desktop/C++/build/Debug/outDebug",
+      "cwd": "c:/Users/Payal/OneDrive/Desktop/c++/2darrays.cpp",
+      "program": "c:/Users/Payal/OneDrive/Desktop/c++/2darrays.cpp/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
